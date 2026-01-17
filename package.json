@@ -1,0 +1,12 @@
+{
+  "name": "simple-nft-minting-tool",
+  "version": "1.0.0",
+  "main": "mint.js",
+  "scripts": {
+    "start": "node mint.js"
+  },
+  "dependencies": {
+    "ethers": "^5.7.0",
+    "dotenv": "^16.0.0"
+  }
+}
